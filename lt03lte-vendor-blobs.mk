@@ -239,10 +239,10 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libdisp-aba.so:system/vendor/lib/libdisp-aba.so \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libmm-abl.so:system/vendor/lib/libmm-abl.so \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
-	vendor/samsung/lt03lte/proprietary/lib/hw/libarccamera.so:system/lib/hw/libarccamera.so \
-	vendor/samsung/lt03lte/proprietary/lib/hw/libcamera_client.so:system/lib/hw/libcamera_client.so \
-	vendor/samsung/lt03lte/proprietary/lib/hw/libcamera_metadata.so:system/lib/hw/libcamera_metadata.so \
-	vendor/samsung/lt03lte/proprietary/lib/hw/libcameraservice.so:system/lib/hw/libcameraservice.so \
-	vendor/samsung/lt03lte/proprietary/lib/hw/libseccamera_jni.so:system/lib/hw/libseccamera_jni.so \
-	vendor/samsung/lt03lte/proprietary/lib/hw/libseccameracore.so:system/lib/hw/libseccameracore.so \
-	vendor/samsung/lt03lte/proprietary/lib/hw/libseccameraeffect.so:system/lib/hw/libseccameraeffect.so
+	vendor/samsung/lt03lte/proprietary/lib/libarccamera.so:system/lib/libarccamera.so \
+	vendor/samsung/lt03lte/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
+	vendor/samsung/lt03lte/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
+	vendor/samsung/lt03lte/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
+	vendor/samsung/lt03lte/proprietary/lib/libseccamera_jni.so:system/lib/libseccamera_jni.so \
+	vendor/samsung/lt03lte/proprietary/lib/libseccameracore.so:system/lib/libseccameracore.so \
+	vendor/samsung/lt03lte/proprietary/lib/libseccameraeffect.so:system/lib/libseccameraeffect.so
