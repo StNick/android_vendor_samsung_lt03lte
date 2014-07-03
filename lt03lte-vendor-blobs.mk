@@ -238,11 +238,4 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/lt03lte/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libdisp-aba.so:system/vendor/lib/libdisp-aba.so \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libmm-abl.so:system/vendor/lib/libmm-abl.so \
-	vendor/samsung/lt03lte/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
-	vendor/samsung/lt03lte/proprietary/lib/libarccamera.so:system/lib/libarccamera.so \
-	vendor/samsung/lt03lte/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
-	vendor/samsung/lt03lte/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
-	vendor/samsung/lt03lte/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
-	vendor/samsung/lt03lte/proprietary/lib/libseccamera_jni.so:system/lib/libseccamera_jni.so \
-	vendor/samsung/lt03lte/proprietary/lib/libseccameracore.so:system/lib/libseccameracore.so \
-	vendor/samsung/lt03lte/proprietary/lib/libseccameraeffect.so:system/lib/libseccameraeffect.so
+	vendor/samsung/lt03lte/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so
