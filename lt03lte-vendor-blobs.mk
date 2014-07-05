@@ -87,14 +87,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
 	vendor/samsung/lt03lte/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
 	vendor/samsung/lt03lte/proprietary/lib/libomission_avoidance.so:system/lib/libomission_avoidance.so \
-	vendor/samsung/lt03lte/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
-	vendor/samsung/lt03lte/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
-	vendor/samsung/lt03lte/proprietary/vendor/lib/libqmi_cci.so:system/vendor/lib/libqmi_cci.so \
-	vendor/samsung/lt03lte/proprietary/vendor/lib/libqmi_common.so:system/vendor/lib/libqmi_common.so \
-	vendor/samsung/lt03lte/proprietary/vendor/lib/libqmi_csi.so:system/vendor/lib/libqmi_csi.so \
-	vendor/samsung/lt03lte/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
-	vendor/samsung/lt03lte/proprietary/vendor/lib/libqmi_client_qmux.so:system/vendor/lib/libqmi_client_qmux.so \
 	vendor/samsung/lt03lte/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
 	vendor/samsung/lt03lte/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
 	vendor/samsung/lt03lte/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
