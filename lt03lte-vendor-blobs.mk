@@ -188,13 +188,13 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libmmcamera_imglib.so:system/vendor/lib/libmmcamera_imglib.so \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libmmcamera2_wnr_module.so:system/vendor/lib/libmmcamera2_wnr_module.so \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libmmcamera2_vpe_module.so:system/vendor/lib/libmmcamera2_vpe_module.so \
-	vendor/samsung/lt03lte/proprietary/vendor/lib/libarccamera.so:system/vendor/lib/libarccamera.so \
-	vendor/samsung/lt03lte/proprietary/vendor/lib/libcamera_client.so:system/vendor/lib/libcamera_client.so \
-	vendor/samsung/lt03lte/proprietary/vendor/lib/libcamera_metadata.so:system/vendor/lib/libcamera_metadata.so \
-	vendor/samsung/lt03lte/proprietary/vendor/lib/libcameraservice.so:system/vendor/lib/libcameraservice.so \
-	vendor/samsung/lt03lte/proprietary/vendor/lib/libseccamera_jni.so:system/vendor/lib/libseccamera_jni.so \
-	vendor/samsung/lt03lte/proprietary/vendor/lib/libseccameracore.so:system/vendor/lib/libseccameracore.so \
-	vendor/samsung/lt03lte/proprietary/vendor/lib/libseccameraeffect.so:system/vendor/lib/libseccameraeffect.so \
+	vendor/samsung/lt03lte/proprietary/lib/libarccamera.so:system/lib/libarccamera.so \
+	vendor/samsung/lt03lte/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
+	vendor/samsung/lt03lte/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
+	vendor/samsung/lt03lte/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
+	vendor/samsung/lt03lte/proprietary/lib/libseccamera_jni.so:system/lib/libseccamera_jni.so \
+	vendor/samsung/lt03lte/proprietary/lib/libseccameracore.so:system/lib/libseccameracore.so \
+	vendor/samsung/lt03lte/proprietary/lib/libseccameraeffect.so:system/lib/libseccameraeffect.so \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libactuator_ak7345_camcorder.so:system/vendor/lib/libactuator_ak7345_camcorder.so \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libactuator_ak7345_camera.so:system/vendor/lib/libactuator_ak7345_camera.so \
