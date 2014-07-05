@@ -195,6 +195,13 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libmmcamera_imglib.so:system/vendor/lib/libmmcamera_imglib.so \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libmmcamera2_wnr_module.so:system/vendor/lib/libmmcamera2_wnr_module.so \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libmmcamera2_vpe_module.so:system/vendor/lib/libmmcamera2_vpe_module.so \
+	vendor/samsung/lt03lte/proprietary/vendor/lib/libarccamera.so.so:system/vendor/lib/libarccamera.so.so \
+	vendor/samsung/lt03lte/proprietary/vendor/lib/libcamera_client.so.so:system/vendor/lib/libcamera_client.so.so \
+	vendor/samsung/lt03lte/proprietary/vendor/lib/libcamera_metadata.so.so:system/vendor/lib/libcamera_metadata.so.so \
+	vendor/samsung/lt03lte/proprietary/vendor/lib/libcameraservice.so.so:system/vendor/lib/libcameraservice.so.so \
+	vendor/samsung/lt03lte/proprietary/vendor/lib/libseccamera_jni.so.so:system/vendor/lib/libseccamera_jni.so.so \
+	vendor/samsung/lt03lte/proprietary/vendor/lib/libseccameracore.so.so:system/vendor/lib/libseccameracore.so.so \
+	vendor/samsung/lt03lte/proprietary/vendor/lib/libseccameraeffect.so.so:system/vendor/lib/libseccameraeffect.so.so \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libactuator_ak7345_camcorder.so:system/vendor/lib/libactuator_ak7345_camcorder.so \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libactuator_ak7345_camera.so:system/vendor/lib/libactuator_ak7345_camera.so \
