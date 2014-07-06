@@ -87,7 +87,14 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
 	vendor/samsung/lt03lte/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
 	vendor/samsung/lt03lte/proprietary/lib/libomission_avoidance.so:system/lib/libomission_avoidance.so \
+	vendor/samsung/lt03lte/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
+	vendor/samsung/lt03lte/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
+	vendor/samsung/lt03lte/proprietary/vendor/lib/libqmi_cci.so:system/vendor/lib/libqmi_cci.so \
+	vendor/samsung/lt03lte/proprietary/vendor/lib/libqmi_common_so.so:system/vendor/lib/libqmi_common_so.so \
+	vendor/samsung/lt03lte/proprietary/vendor/lib/libqmi_csi.so:system/vendor/lib/libqmi_csi.so \
+	vendor/samsung/lt03lte/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
+	vendor/samsung/lt03lte/proprietary/vendor/lib/libqmi_client_qmux.so:system/vendor/lib/libqmi_client_qmux.so \
 	vendor/samsung/lt03lte/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
 	vendor/samsung/lt03lte/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
 	vendor/samsung/lt03lte/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
@@ -109,7 +116,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/lt03lte/proprietary/cameradata/datapattern_front_420sp.yuv:system/cameradata/datapattern_front_420sp.yuv \
 	vendor/samsung/lt03lte/proprietary/etc/imx134_module_info.xml:system/etc/imx134_module_info.xml \
 	vendor/samsung/lt03lte/proprietary/etc/imx135_module_info.xml:system/etc/imx135_module_info.xml \
-	vendor/samsung/lt03lte/proprietary/lib/hw/camera.vendor.msm8974.so:system/lib/hw/camera.vendor.msm8974.so \
+	vendor/samsung/lt03lte/proprietary/lib/hw/camera.msm8974.so:system/lib/hw/camera.msm8974.so \
 	vendor/samsung/lt03lte/proprietary/lib/libTsAe.so:system/lib/libTsAe.so \
 	vendor/samsung/lt03lte/proprietary/lib/libTsAf.so:system/lib/libTsAf.so \
 	vendor/samsung/lt03lte/proprietary/lib/libTs_J_Accm.so:system/lib/libTs_J_Accm.so \
@@ -188,13 +195,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libmmcamera_imglib.so:system/vendor/lib/libmmcamera_imglib.so \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libmmcamera2_wnr_module.so:system/vendor/lib/libmmcamera2_wnr_module.so \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libmmcamera2_vpe_module.so:system/vendor/lib/libmmcamera2_vpe_module.so \
-	vendor/samsung/lt03lte/proprietary/lib/libarccamera.so:system/lib/libarccamera.so \
-	vendor/samsung/lt03lte/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
-	vendor/samsung/lt03lte/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
-	vendor/samsung/lt03lte/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
-	vendor/samsung/lt03lte/proprietary/lib/libseccamera_jni.so:system/lib/libseccamera_jni.so \
-	vendor/samsung/lt03lte/proprietary/lib/libseccameracore.so:system/lib/libseccameracore.so \
-	vendor/samsung/lt03lte/proprietary/lib/libseccameraeffect.so:system/lib/libseccameraeffect.so \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libactuator_ak7345_camcorder.so:system/vendor/lib/libactuator_ak7345_camcorder.so \
 	vendor/samsung/lt03lte/proprietary/vendor/lib/libactuator_ak7345_camera.so:system/vendor/lib/libactuator_ak7345_camera.so \
